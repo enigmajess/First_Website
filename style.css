@@ -13,7 +13,7 @@ body{
     margin: 20px 40px;
     background-color:#8d949b;
 }
-~
+
 #nav-container{
     display: flex;
     flex-direction: row-reverse;
